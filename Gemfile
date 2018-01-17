@@ -29,11 +29,13 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Bootstrap for styling
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass'
 
 # Use jQuery for easier javascript
-gem 'jquery-rails', '~> 4.3.1'
+gem 'jquery-rails'
 
+# Use Devise for authentication
+gem 'devise'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
